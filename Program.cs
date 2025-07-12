@@ -1,7 +1,8 @@
-using CodePulse.API.Data;
+﻿using CodePulse.API.Data;
 using CodePulse.API.Repository.Implementation;
 using CodePulse.API.Repository.Interface;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
@@ -9,6 +10,13 @@ using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
+
+// ?? Forwarded Headers for Render reverse proxy
+builder.Services.Configure<ForwardedHeadersOptions>(options =>
+{
+    options.ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto;
+});
 
 
 
@@ -73,9 +81,11 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
 
 var app = builder.Build();
 
+app.UseForwardedHeaders(); // ✅ render ke liye must
+
 // Configure the HTTP request pipeline.
 
-    app.UseSwagger();
+app.UseSwagger();
     app.UseSwaggerUI();
 
 
