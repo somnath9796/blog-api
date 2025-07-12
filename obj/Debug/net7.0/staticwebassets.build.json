@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Q3bBsNS70+SsT+2pUnc7TCoCxe073JsM81VDykAyaes=",
+  "Source": "CodePulse.API",
+  "BasePath": "_content/CodePulse.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CodePulse.API\\wwwroot",
+      "Source": "CodePulse.API",
+      "ContentRoot": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\wwwroot\\",
+      "BasePath": "_content/CodePulse.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

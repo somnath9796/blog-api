@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\repository\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:repository\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\repository\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:repository\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\repository\\implementation\\tokenrespoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:repository\\implementation\\tokenrespoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\repository\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:repository\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|d:\\udemy_code_pulse\\api\\codepulse.api\\models\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAE689-2A59-48A7-A390-FB3F96E8B29A}|CodePulse.API.csproj|solutionrelative:models\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwCUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:10:03.533Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AuthDbContext.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Data\\AuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:59:35.219Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T17:25:39.757Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:51:27.097Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:53:25.783Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Repository\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Repository\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:55:31.113Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Repository\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Repository\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAArwHoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:56:10.212Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:57:32.69Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Models\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\RegisterDTO.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Models\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:03:54.759Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Models\\DTO\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\LoginRequestDTO.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Models\\DTO\\LoginRequestDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\LoginRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:45:08.659Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Models\\DTO\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\LoginResponseDTO.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Models\\DTO\\LoginResponseDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\LoginResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:55:15.643Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Repository\\Interface\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\ITokenRepository.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Repository\\Interface\\ITokenRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\ITokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:06:03.634Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenRespoitory.cs",
+              "DocumentMoniker": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Repository\\Implementation\\TokenRespoitory.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\TokenRespoitory.cs",
+              "ToolTip": "D:\\Udemy_Code_Pulse\\API\\CodePulse.API\\Repository\\Implementation\\TokenRespoitory.cs",
+              "RelativeToolTip": "Repository\\Implementation\\TokenRespoitory.cs",
+              "ViewState": "AQIAABUAAACg1UVa0nMkwCsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:07:20.264Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
